@@ -1,0 +1,60 @@
+
+- - name: "josh"
+  awareness:
+    # these are rolled 1-10 on player creation
+    # heart
+    connection: 1
+    communication: 1
+    # spirit
+    energy: 1
+    vibration: 1
+    # soul
+    environment: 1
+    perception: 1
+    # mind
+    navigation: 1
+    automation: 1
+  items:
+  - name: "calculator watch"
+    quality: 1000
+  - name: "spirit shaper"
+    quality: 10000 
+  body:
+    location:
+      x: 11
+      y: 13
+      z: 1
+    parts:
+    - type: "heart"
+      belongsTo: "josh"
+      found: true,
+      gameName: "henreta"
+      givenName: "whoknewvoodoo"
+      intent: "stay with josh and out of trouble"
+    - type: "mind"
+      belongsTo: "josh"
+      found: true,
+      gameName: "zedskee"
+      givenName: "zedskee"
+      memory_locker:
+        intents:
+          "stay with josh and out of trouble"
+        dreams:
+          "all"          
+        hopes:
+          "all"
+        ideas:
+          "all"  
+    - type: "spirit"
+      belongsTo: "josh"
+      found: true,
+      gameName: "through_the_door"
+      givenName: "ttd"
+      intent: "ensconse until it blows over"
+    - type: "soul"
+      belongsTo: "josh"
+      found: true,
+      gameName: "wilhelm"
+      givenName: "wilhelm"
+      intent: "stay with josh and out of trouble"
+      

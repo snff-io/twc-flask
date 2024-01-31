@@ -21,34 +21,48 @@ code {
 .grid {
     height: 100vh;
     display: grid;
-    grid-template-columns: 60fr 100fr 100fr;
+    grid-template-columns: 80fr 100fr 100fr;
     grid-template-rows: 200fr 1fr 150fr;
     
 }
 
 .cell {
     border: 1px solid black;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 .span_cell {
     border: 1px solid black;
-    grid-column: span 3;
+    grid-column: span 2;
 }
 
 .wrapper {
     display: grid;
 
     gap: 10px;
-    grid-auto-rows: minmax(40px, auto);
+    grid-auto-rows: minmax(20px, auto);
   }
 
+
+
 .local {
-    
+
 }
 
-.input_main {
-    height: 50px;
+
+.input_text {
+    background-color: black;
+    color: lime;
+    width: 100%;
+    height: 40%;
+}
+
+.input_breadcrumb {
+    background-color: transparent;
+    width: 100%;
+    height: 40%;
 }
 
 .output_main {

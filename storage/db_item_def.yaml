@@ -1,0 +1,62 @@
+db_item_def:
+- name: "mechanical guts"
+  description: "if you need instincts or gumption, these may do it for ya."
+  quality: 1000
+  bonuses:
+  # bonus = (quality * bounus) / 1000
+  - automation: 1
+  - energy: 1.5
+  - vibration: 1
+- name: "heart shaped box"
+  description: "one way to capture someone's heart..."
+  abilities:
+  - name: "navigate"
+  requires:
+  - automation
+  - energy
+  - vibration
+  - navigation
+  - environment
+- name: "calculator watch"
+  description: "more than just a smart watch, it tells time."
+  abilities:
+  - name: "navigate"
+  requires:
+  - automation
+  - energy
+  - vibration
+  - navigation
+  - environment
+- name: "spirit shaper"
+  image: "spirit_shaper"
+  description: "tame irregularity, or get turnt"
+  abilities:
+  - name: "transfer_frequency"
+  - name: "detect_frequency"  
+  requires:
+    - connection
+    - energy
+    - vibration
+    - automation
+- name: "make_shift_energy_collector":
+  image: "mechanical_collector":
+  description: "the play function is broken, but record seems to work..."
+  abilities:
+  - name: "force_transfer_energy"
+  requires:
+    - vibration
+    - automation
+- name: "high-tech-lunchbox"
+  image: "high_tech_lunchbox"
+  description: "it's segmented and has lights on it."
+  abilities:
+  - name: "transfer_fidelity"
+  - name: "dstore_frequency"
+  - name: "connection_inbound"
+  - name: "connection_outbound"
+  - name: "store_frequency"
+  requires:
+    - connection
+    - energy
+    - vibration
+    - automation

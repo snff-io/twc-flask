@@ -1,0 +1,100 @@
+db_ability:
+- name: "compass"
+  displayName: "the fastest way...."
+  description: "points your nav in the direction of a heart with specified name, probably."
+  requires:
+  - connection
+  - navigation
+  domain: direction
+  domain_value: 0..360
+- name: "waypoint"
+  displayName: "what we got here..."
+  description: "lets you set a path and follow it."
+  requires:
+  - vibration
+  - communication
+  - energy
+  domain: score
+  domain_value: 1..9
+- name: "communicate"
+  displayName: "what we got here..."
+  description: "is the potential to communicate, or is polenta flavored chocolate... someone decides"
+  requires:
+  - vibration
+  - communication
+  - energy
+  domain: score
+  domain_value: 1..9
+- name: "transfer_volume"
+  displayName: "pump up the volume"
+  description: "adjust the amount of energy from a source to destination(s)"
+  requires:
+  - connection
+  - energy
+  domain: volume
+  domain_range: 1..9
+  - name: "transfer_frequency"
+  displayName: "pump up the volume"
+  description: "spend energy to adjust the frequnency of energy from a source to destination"
+  requires:
+  - vibration
+  - connection
+  - energy
+  domain: hertz
+  domain_value: 1..9
+- name: "force_transfer_energy"
+  displayName: "I accept your tribute"
+  description: "soak energy from all sources within range"
+  requires:
+  - vibration
+  - energy
+  domain: meters
+  domain_value: 1..9
+- name: "connection_inbound"
+  displayName: "inbound connection"
+  description: "connect to a source of energy"
+  requires:
+  - vibration
+  - connection
+  - energy
+  domain: ports
+  domain_value: 1..9
+- name: "connection_outbound"
+  displayName: "outbound connection"
+  description: "connect to a destination of energy"
+  requires:
+  - vibration
+  - connection
+  - energy
+  domain: ports
+  domain_value: 1..9
+- name: "store_frequency"
+  displayName: "hold on loosely"
+  description: "store energy in a bin"
+  requires:
+  - vibration
+  - connection
+  - energy
+  domain: bins
+  domain_value: 1..9
+- name: "transfer_fidelity"
+  displayName: "dont let it go"
+  description: "transfer energy with less loss"
+  requires:
+  - vibration
+  - connection
+  - energy
+  domain: fidelity
+  domain_value: 1..9
+- name: "detect_frequency"
+  displayName: "check its vibe"
+  description: "detect frequency of energy"
+  requires:
+  - vibration
+  - connection
+  - energy
+  domain: fidelity
+  domain_value: 1..9
+
+  
+  

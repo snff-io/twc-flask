@@ -1,0 +1,29 @@
+db_part_def:
+- type: "heart"
+  bonuses:
+    connection: 8
+    communication: 8
+  abilities:
+  - name: "compass"
+  - name: "communicate"
+- type: "mind"
+  bonuses:
+    navigation: 8
+    automation: 8
+  abilities:
+  - name: "waypoint"
+- type: "spirit"
+  bonuses:
+    energy: 8
+    vibration: 8
+  abilities:
+  - name: "transfer_volume"
+  - name: "detect_frequency"
+  - name: "force_transfer_energy"  
+- type: "soul"
+  bonuses:
+    environment: 8
+    perception: 8
+  abilities:
+  - name: "waypoint"
+  - name: "communicate"
