@@ -27,5 +27,8 @@
       ]
     }
   },
+  "containerEnv": {
+    "PYTHONPATH": "${workspaceFolder}",
   "forwardPorts": [5000]
+  }
 }
