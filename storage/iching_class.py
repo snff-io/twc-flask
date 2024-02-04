@@ -1,6 +1,6 @@
 import yaml
 from dataclasses import dataclass
-from iching_model import Trigram, Hexagram, Nonagram
+from storage.iching_model import Trigram, Hexagram, Nonagram
 
 @dataclass
 class IChing:
