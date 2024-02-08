@@ -1,5 +1,6 @@
 hexagrams:
-- binary: '111111'
+- anumber: 1
+  binary: '111111'
   bottomTrigram: 1
   character: "\u4DC0"
   chineseName: "\u4E7E"
@@ -17,7 +18,8 @@ hexagrams:
   number: 1
   pinyinName: "qi\xE1n"
   topTrigram: 1
-- binary: '000000'
+- anumber: 2
+  binary: '000000'
   bottomTrigram: 2
   character: "\u4DC1"
   chineseName: "\u5764"
@@ -35,7 +37,8 @@ hexagrams:
   number: 2
   pinyinName: "k\u016Bn"
   topTrigram: 2
-- binary: '010001'
+- anumber: 3
+  binary: '010001'
   bottomTrigram: 3
   character: "\u4DC2"
   chineseName: "\u5C6F"
@@ -53,7 +56,8 @@ hexagrams:
   number: 3
   pinyinName: "zh\u016Bn"
   topTrigram: 4
-- binary: '100010'
+- anumber: 4
+  binary: '100010'
   bottomTrigram: 4
   character: "\u4DC3"
   chineseName: "\u8499"
@@ -71,7 +75,8 @@ hexagrams:
   number: 4
   pinyinName: "m\xE9ng"
   topTrigram: 5
-- binary: '010111'
+- anumber: 5
+  binary: '010111'
   bottomTrigram: 1
   character: "\u4DC4"
   chineseName: "\u9700"
@@ -89,7 +94,8 @@ hexagrams:
   number: 5
   pinyinName: "x\u016B"
   topTrigram: 4
-- binary: '111010'
+- anumber: 6
+  binary: '111010'
   bottomTrigram: 4
   character: "\u4DC5"
   chineseName: "\u8A1F"
@@ -107,7 +113,8 @@ hexagrams:
   number: 6
   pinyinName: "s\xF2ng"
   topTrigram: 1
-- binary: '000010'
+- anumber: 7
+  binary: '000010'
   bottomTrigram: 4
   character: "\u4DC6"
   chineseName: "\u5E2B"
@@ -125,7 +132,8 @@ hexagrams:
   number: 7
   pinyinName: "sh\u012B"
   topTrigram: 2
-- binary: '010000'
+- anumber: 8
+  binary: '010000'
   bottomTrigram: 2
   character: "\u4DC7"
   chineseName: "\u6BD4"
@@ -143,7 +151,8 @@ hexagrams:
   number: 8
   pinyinName: "b\u01D0"
   topTrigram: 4
-- binary: '110111'
+- anumber: 9
+  binary: '110111'
   bottomTrigram: 1
   character: "\u4DC8"
   chineseName: "\u5C0F\u755C"
@@ -161,7 +170,8 @@ hexagrams:
   number: 9
   pinyinName: "xi\u01CEo ch\xF9"
   topTrigram: 6
-- binary: '111011'
+- anumber: 10
+  binary: '111011'
   bottomTrigram: 8
   character: "\u4DC9"
   chineseName: "\u5C65"
@@ -179,7 +189,8 @@ hexagrams:
   number: 10
   pinyinName: "l\u01DA"
   topTrigram: 1
-- binary: '000111'
+- anumber: 11
+  binary: '000111'
   bottomTrigram: 1
   character: "\u4DCA"
   chineseName: "\u6CF0"
@@ -197,7 +208,8 @@ hexagrams:
   number: 11
   pinyinName: "t\xE0i"
   topTrigram: 2
-- binary: '111000'
+- anumber: 12
+  binary: '111000'
   bottomTrigram: 2
   character: "\u4DCB"
   chineseName: "\u5426"
@@ -215,7 +227,8 @@ hexagrams:
   number: 12
   pinyinName: "p\u01D0"
   topTrigram: 1
-- binary: '111101'
+- anumber: 13
+  binary: '111101'
   bottomTrigram: 7
   character: "\u4DCC"
   chineseName: "\u540C\u4EBA"
@@ -233,7 +246,8 @@ hexagrams:
   number: 13
   pinyinName: "t\xF3ng r\xE9n"
   topTrigram: 1
-- binary: '101111'
+- anumber: 14
+  binary: '101111'
   bottomTrigram: 1
   character: "\u4DCD"
   chineseName: "\u5927\u6709"
@@ -251,7 +265,8 @@ hexagrams:
   number: 14
   pinyinName: "d\xE0 y\u01D2u"
   topTrigram: 7
-- binary: '000100'
+- anumber: 15
+  binary: '000100'
   bottomTrigram: 5
   character: "\u4DCE"
   chineseName: "\u8B19"
@@ -269,7 +284,8 @@ hexagrams:
   number: 15
   pinyinName: "qi\u0101n"
   topTrigram: 2
-- binary: '001000'
+- anumber: 16
+  binary: '001000'
   bottomTrigram: 2
   character: "\u4DCF"
   chineseName: "\u8C6B"
@@ -287,7 +303,8 @@ hexagrams:
   number: 16
   pinyinName: "y\xF9"
   topTrigram: 3
-- binary: '011001'
+- anumber: 17
+  binary: '011001'
   bottomTrigram: 3
   character: "\u4DD0"
   chineseName: "\u96A8"
@@ -304,7 +321,8 @@ hexagrams:
   number: 17
   pinyinName: "su\xED"
   topTrigram: 8
-- binary: '100110'
+- anumber: 18
+  binary: '100110'
   bottomTrigram: 6
   character: "\u4DD1"
   chineseName: "\u8831"
@@ -322,7 +340,8 @@ hexagrams:
   number: 18
   pinyinName: "g\u01D4"
   topTrigram: 5
-- binary: '000011'
+- anumber: 19
+  binary: '000011'
   bottomTrigram: 8
   character: "\u4DD2"
   chineseName: "\u81E8"
@@ -340,7 +359,8 @@ hexagrams:
   number: 19
   pinyinName: "l\xEDn"
   topTrigram: 2
-- binary: '110000'
+- anumber: 20
+  binary: '110000'
   bottomTrigram: 2
   character: "\u4DD3"
   chineseName: "\u89C0"
@@ -358,7 +378,8 @@ hexagrams:
   number: 20
   pinyinName: "gu\u0101n"
   topTrigram: 6
-- binary: '101001'
+- anumber: 21
+  binary: '101001'
   bottomTrigram: 3
   character: "\u4DD4"
   chineseName: "\u566C\u55D1"
@@ -376,7 +397,8 @@ hexagrams:
   number: 21
   pinyinName: "sh\xEC k\xE8"
   topTrigram: 7
-- binary: '100101'
+- anumber: 22
+  binary: '100101'
   bottomTrigram: 7
   character: "\u4DD5"
   chineseName: "\u8CC1"
@@ -394,7 +416,8 @@ hexagrams:
   number: 22
   pinyinName: "b\xEC"
   topTrigram: 5
-- binary: '100000'
+- anumber: 23
+  binary: '100000'
   bottomTrigram: 2
   character: "\u4DD6"
   chineseName: "\u525D"
@@ -412,7 +435,8 @@ hexagrams:
   number: 23
   pinyinName: "b\u014D"
   topTrigram: 5
-- binary: '000001'
+- anumber: 24
+  binary: '000001'
   bottomTrigram: 3
   character: "\u4DD7"
   chineseName: "\u5FA9"
@@ -430,7 +454,8 @@ hexagrams:
   number: 24
   pinyinName: "f\xF9"
   topTrigram: 2
-- binary: '111001'
+- anumber: 25
+  binary: '111001'
   bottomTrigram: 3
   character: "\u4DD8"
   chineseName: "\u7121\u5984"
@@ -448,7 +473,8 @@ hexagrams:
   number: 25
   pinyinName: "w\xFA w\xE0ng"
   topTrigram: 1
-- binary: '100111'
+- anumber: 26
+  binary: '100111'
   bottomTrigram: 1
   character: "\u4DD9"
   chineseName: "\u5927\u755C"
@@ -466,7 +492,8 @@ hexagrams:
   number: 26
   pinyinName: "d\xE0 ch\xF9"
   topTrigram: 5
-- binary: '100001'
+- anumber: 27
+  binary: '100001'
   bottomTrigram: 3
   character: "\u4DDA"
   chineseName: "\u9824"
@@ -484,7 +511,8 @@ hexagrams:
   number: 27
   pinyinName: "y\xED"
   topTrigram: 5
-- binary: '011110'
+- anumber: 28
+  binary: '011110'
   bottomTrigram: 6
   character: "\u4DDB"
   chineseName: "\u5927\u904E"
@@ -502,7 +530,8 @@ hexagrams:
   number: 28
   pinyinName: "d\xE0 gu\xF2"
   topTrigram: 8
-- binary: '010010'
+- anumber: 29
+  binary: '010010'
   bottomTrigram: 4
   character: "\u4DDC"
   chineseName: "\u574E"
@@ -520,7 +549,8 @@ hexagrams:
   number: 29
   pinyinName: "k\u01CEn"
   topTrigram: 4
-- binary: '101101'
+- anumber: 30
+  binary: '101101'
   bottomTrigram: 7
   character: "\u4DDD"
   chineseName: "\u96E2"
@@ -538,7 +568,8 @@ hexagrams:
   number: 30
   pinyinName: "l\xED"
   topTrigram: 7
-- binary: '011100'
+- anumber: 31
+  binary: '011100'
   bottomTrigram: 5
   character: "\u4DDE"
   chineseName: "\u54B8"
@@ -556,7 +587,8 @@ hexagrams:
   number: 31
   pinyinName: "xi\xE1n"
   topTrigram: 8
-- binary: '001110'
+- anumber: 32
+  binary: '001110'
   bottomTrigram: 6
   character: "\u4DDF"
   chineseName: "\u6046"
@@ -574,7 +606,8 @@ hexagrams:
   number: 32
   pinyinName: "h\xE9ng"
   topTrigram: 3
-- binary: '111100'
+- anumber: 33
+  binary: '111100'
   bottomTrigram: 5
   character: "\u4DE0"
   chineseName: "\u906F"
@@ -592,7 +625,8 @@ hexagrams:
   number: 33
   pinyinName: "d\xF9n"
   topTrigram: 1
-- binary: '001111'
+- anumber: 34
+  binary: '001111'
   bottomTrigram: 1
   character: "\u4DE1"
   chineseName: "\u5927\u58EF"
@@ -610,7 +644,8 @@ hexagrams:
   number: 34
   pinyinName: "d\xE0 zhu\xE0ng"
   topTrigram: 3
-- binary: '101000'
+- anumber: 35
+  binary: '101000'
   bottomTrigram: 2
   character: "\u4DE2"
   chineseName: "\u6649"
@@ -628,7 +663,8 @@ hexagrams:
   number: 35
   pinyinName: "j\xECn"
   topTrigram: 7
-- binary: '000101'
+- anumber: 36
+  binary: '000101'
   bottomTrigram: 7
   character: "\u4DE3"
   chineseName: "\u660E\u5937"
@@ -645,7 +681,8 @@ hexagrams:
   number: 36
   pinyinName: "m\xEDng y\xED"
   topTrigram: 2
-- binary: '110101'
+- anumber: 37
+  binary: '110101'
   bottomTrigram: 7
   character: "\u4DE4"
   chineseName: "\u5BB6\u4EBA"
@@ -663,7 +700,8 @@ hexagrams:
   number: 37
   pinyinName: "ji\u0101 r\xE9n"
   topTrigram: 6
-- binary: '101011'
+- anumber: 38
+  binary: '101011'
   bottomTrigram: 8
   character: "\u4DE5"
   chineseName: "\u777D"
@@ -681,7 +719,8 @@ hexagrams:
   number: 38
   pinyinName: "ku\xED"
   topTrigram: 7
-- binary: '010100'
+- anumber: 39
+  binary: '010100'
   bottomTrigram: 5
   character: "\u4DE6"
   chineseName: "\u8E47"
@@ -699,7 +738,8 @@ hexagrams:
   number: 39
   pinyinName: "ji\u01CEn"
   topTrigram: 4
-- binary: '001010'
+- anumber: 40
+  binary: '001010'
   bottomTrigram: 4
   character: "\u4DE7"
   chineseName: "\u89E3"
@@ -717,7 +757,8 @@ hexagrams:
   number: 40
   pinyinName: "xi\xE8"
   topTrigram: 3
-- binary: '100011'
+- anumber: 41
+  binary: '100011'
   bottomTrigram: 8
   character: "\u4DE8"
   chineseName: "\u640D"
@@ -735,7 +776,8 @@ hexagrams:
   number: 41
   pinyinName: "s\u01D4n"
   topTrigram: 5
-- binary: '110001'
+- anumber: 42
+  binary: '110001'
   bottomTrigram: 3
   character: "\u4DE9"
   chineseName: "\u76CA"
@@ -753,7 +795,8 @@ hexagrams:
   number: 42
   pinyinName: "y\xEC"
   topTrigram: 6
-- binary: '011111'
+- anumber: 43
+  binary: '011111'
   bottomTrigram: 1
   character: "\u4DEA"
   chineseName: "\u592C"
@@ -771,7 +814,8 @@ hexagrams:
   number: 43
   pinyinName: "gu\xE0i"
   topTrigram: 8
-- binary: '111110'
+- anumber: 44
+  binary: '111110'
   bottomTrigram: 6
   character: "\u4DEB"
   chineseName: "\u59E4"
@@ -789,7 +833,8 @@ hexagrams:
   number: 44
   pinyinName: "g\xF2u"
   topTrigram: 1
-- binary: '011000'
+- anumber: 45
+  binary: '011000'
   bottomTrigram: 2
   character: "\u4DEC"
   chineseName: "\u8403"
@@ -807,7 +852,8 @@ hexagrams:
   number: 45
   pinyinName: "cu\xEC"
   topTrigram: 8
-- binary: '000110'
+- anumber: 46
+  binary: '000110'
   bottomTrigram: 6
   character: "\u4DED"
   chineseName: "\u5347"
@@ -825,7 +871,8 @@ hexagrams:
   number: 46
   pinyinName: "sh\u0113ng"
   topTrigram: 2
-- binary: '011010'
+- anumber: 47
+  binary: '011010'
   bottomTrigram: 4
   character: "\u4DEE"
   chineseName: "\u56F0"
@@ -843,7 +890,8 @@ hexagrams:
   number: 47
   pinyinName: "k\xF9n"
   topTrigram: 8
-- binary: '010110'
+- anumber: 48
+  binary: '010110'
   bottomTrigram: 6
   character: "\u4DEF"
   chineseName: "\u4E95"
@@ -861,7 +909,8 @@ hexagrams:
   number: 48
   pinyinName: "j\u01D0ng"
   topTrigram: 4
-- binary: '011101'
+- anumber: 49
+  binary: '011101'
   bottomTrigram: 7
   character: "\u4DF0"
   chineseName: "\u9769"
@@ -879,7 +928,8 @@ hexagrams:
   number: 49
   pinyinName: "g\xE9"
   topTrigram: 8
-- binary: '101110'
+- anumber: 50
+  binary: '101110'
   bottomTrigram: 6
   character: "\u4DF1"
   chineseName: "\u9F0E"
@@ -897,7 +947,8 @@ hexagrams:
   number: 50
   pinyinName: "d\u01D0ng"
   topTrigram: 7
-- binary: '001001'
+- anumber: 51
+  binary: '001001'
   bottomTrigram: 3
   character: "\u4DF2"
   chineseName: "\u9707"
@@ -915,7 +966,8 @@ hexagrams:
   number: 51
   pinyinName: "zh\xE8n"
   topTrigram: 3
-- binary: '100100'
+- anumber: 52
+  binary: '100100'
   bottomTrigram: 5
   character: "\u4DF3"
   chineseName: "\u826E"
@@ -933,7 +985,8 @@ hexagrams:
   number: 52
   pinyinName: "g\xE8n"
   topTrigram: 5
-- binary: '110100'
+- anumber: 53
+  binary: '110100'
   bottomTrigram: 5
   character: "\u4DF4"
   chineseName: "\u6F38"
@@ -951,7 +1004,8 @@ hexagrams:
   number: 53
   pinyinName: "ji\xE0n"
   topTrigram: 6
-- binary: '001011'
+- anumber: 54
+  binary: '001011'
   bottomTrigram: 8
   character: "\u4DF5"
   chineseName: "\u6B78\u59B9"
@@ -969,7 +1023,8 @@ hexagrams:
   number: 54
   pinyinName: "gu\u012B m\xE8i"
   topTrigram: 3
-- binary: '001101'
+- anumber: 55
+  binary: '001101'
   bottomTrigram: 7
   character: "\u4DF6"
   chineseName: "\u8C50"
@@ -987,7 +1042,8 @@ hexagrams:
   number: 55
   pinyinName: "f\u0113ng"
   topTrigram: 3
-- binary: '101100'
+- anumber: 56
+  binary: '101100'
   bottomTrigram: 5
   character: "\u4DF7"
   chineseName: "\u65C5"
@@ -1005,7 +1061,8 @@ hexagrams:
   number: 56
   pinyinName: "l\u01DA"
   topTrigram: 7
-- binary: '110110'
+- anumber: 57
+  binary: '110110'
   bottomTrigram: 6
   character: "\u4DF8"
   chineseName: "\u5DFD"
@@ -1023,7 +1080,8 @@ hexagrams:
   number: 57
   pinyinName: "x\xF9n"
   topTrigram: 6
-- binary: '011011'
+- anumber: 58
+  binary: '011011'
   bottomTrigram: 8
   character: "\u4DF9"
   chineseName: "\u514C"
@@ -1041,7 +1099,8 @@ hexagrams:
   number: 58
   pinyinName: "du\xEC"
   topTrigram: 8
-- binary: '110010'
+- anumber: 59
+  binary: '110010'
   bottomTrigram: 4
   character: "\u4DFA"
   chineseName: "\u6E19"
@@ -1059,7 +1118,8 @@ hexagrams:
   number: 59
   pinyinName: "hu\xE0n"
   topTrigram: 6
-- binary: '010011'
+- anumber: 60
+  binary: '010011'
   bottomTrigram: 8
   character: "\u4DFB"
   chineseName: "\u7BC0"
@@ -1077,7 +1137,8 @@ hexagrams:
   number: 60
   pinyinName: "ji\xE9"
   topTrigram: 4
-- binary: '110011'
+- anumber: 61
+  binary: '110011'
   bottomTrigram: 8
   character: "\u4DFC"
   chineseName: "\u4E2D\u5B5A"
@@ -1095,7 +1156,8 @@ hexagrams:
   number: 61
   pinyinName: "zh\u014Dng f\xFA"
   topTrigram: 6
-- binary: '001100'
+- anumber: 62
+  binary: '001100'
   bottomTrigram: 5
   character: "\u4DFD"
   chineseName: "\u5C0F\u904E"
@@ -1113,7 +1175,8 @@ hexagrams:
   number: 62
   pinyinName: "xi\u01CEo gu\xF2"
   topTrigram: 3
-- binary: '010101'
+- anumber: 63
+  binary: '010101'
   bottomTrigram: 7
   character: "\u4DFE"
   chineseName: "\u65E2\u6FDF"
@@ -1131,7 +1194,8 @@ hexagrams:
   number: 63
   pinyinName: "j\xEC j\xEC"
   topTrigram: 4
-- binary: '101010'
+- anumber: 64
+  binary: '101010'
   bottomTrigram: 4
   character: "\u4DFF"
   chineseName: "\u672A\u6FDF"
